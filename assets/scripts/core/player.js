@@ -2205,7 +2205,7 @@ _updateBallJump(_0x2fe319) {
                 }
               } else {
                 if (this.p.isFlying) {
-                  if (_orbId === 36){ _orbVel = 16; }
+                  if (_orbId === 36){ _orbVel = 50; }
                   else if (_orbId === 141) { _orbVel = _cubeJump * 0.37; }
                   else if (_orbId === 1333) { _orbVel = _cubeJump; }
                   else if (_orbId === 84) { _orbVel = _cubeJump * 0.4; _flipAfter = true; }
